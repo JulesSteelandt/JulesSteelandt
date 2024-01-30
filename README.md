@@ -46,5 +46,5 @@ My personal portfolio is a work in progress, where I'm in the process of creatin
 
 
 # 📈My stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Sonii08&count_private=true&theme=onedark&show_icons=true&hide=issues,contribs&custom_title=Soni%27s%20Github%20Stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=JulesSteelandt&count_private=true&theme=onedark&show_icons=true&hide=issues,contribs&custom_title=Soni%27s%20Github%20Stats)
 
