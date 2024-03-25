@@ -28,7 +28,7 @@ I also like working on little projects such as my personnal portfolio (one day) 
 
 ### 🎓Currently learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next" alt="learning" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react,next,nuxt" alt="learning" height="60"/>
 </p>
 
 ### 🔍Wanting to learn
