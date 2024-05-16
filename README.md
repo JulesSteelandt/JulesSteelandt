@@ -10,7 +10,7 @@ I also like working on little projects such as my personnal portfolio (one day) 
 
 ### 📱Technologies I know
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css,nodejs,express,tailwind,vue" alt="skills" height="60"/>
+  <img src="https://skillicons.dev/icons?i=java,php,js,ts,html,css,nodejs,express,tailwind,vue,vuetify" alt="skills" height="60"/>
 </p>
 
 ### 🔨Tools I know
@@ -29,6 +29,7 @@ I also like working on little projects such as my personnal portfolio (one day) 
 ### 🎓Currently learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,next" alt="learning" height="60"/>
+  <img src="icons/pico8.jng" alt="pico8" width="60" height="60"/>
 </p>
 
 ### 🔍Wanting to learn
