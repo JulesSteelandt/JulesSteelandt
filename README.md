@@ -29,7 +29,7 @@ I also like working on little projects such as my personnal portfolio (one day) 
 ### 🎓Currently learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,next,nuxt,go" alt="learning" height="60"/>
-  <img src="icons/pico8.jng" alt="pico8" width="60" height="60"/>
+  <img src="icons/pico8.jpg" alt="pico8" width="60" height="60"/>
 </p>
 
 ### 🔍Wanting to learn
