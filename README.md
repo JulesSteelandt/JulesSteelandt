@@ -42,6 +42,11 @@ I also like working on little projects such as my personnal portfolio (one day) 
 - 🚧: indicates that the project is not finished but in progress
 - ❌: indicates that the project has not started but is planned
 
+### 🌟AnimeDle🚧
+AnimeDle is an exciting project where users can put their anime knowledge to the test. The concept is simple yet engaging – guess the anime from blurred images! Users will be presented with images of different anime scenes that are intentionally blurred. The challenge is to correctly identify the anime based on these obscured visuals. The AnimeDle project is currently under development, and I'm actively working on creating a website.
+
+[Check out Animedle on GitHub](https://github.com/JulesSteelandt/Animedle)
+
 ### 🎨Portfolio❌
 My personal portfolio is a work in progress, where I'm in the process of creating a showcase of my skills and projects to present my journey in the field of IT and web development
 
