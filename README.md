@@ -58,7 +58,8 @@ Flucks is a project developed as part of my IUT (Institut Universitaire de Techn
 
 [Check out Flucks on GitHub](https://github.com/JulesSteelandt/Flucks)
 
-
+# ⏳Future plan
+I'm a big gamer and a big fan of video games, so maybe one day I'll create my own, but I'll focus on small projects first.
 
 # 📈My stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JulesSteelandt&count_private=true&theme=onedark&show_icons=true&hide=issues,contribs&custom_title=Soni%27s%20Github%20Stats)
