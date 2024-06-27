@@ -47,8 +47,11 @@ AnimeDle is an exciting project where users can put their anime knowledge to the
 
 [Check out Animedle on GitHub](https://github.com/JulesSteelandt/Animedle)
 
-### 🎨Portfolio❌
-My personal portfolio is a work in progress, where I'm in the process of creating a showcase of my skills and projects to present my journey in the field of IT and web development
+### 🎨Portfolio🚧
+My personal portfolio is a work in progress, where I'm in the process of creating a showcase of my skills and projects to present my journey in the field of IT and web development.
+
+[Check out Portfolio on GitHub](https://github.com/JulesSteelandt/Portfolio)
+
 
 ### 🌍Flucks
 Flucks is a project developed as part of my IUT (Institut Universitaire de Technologie) coursework. Its aim is to facilitate live streaming, video viewing, and similar activities with geolocation features. Additionally, it incorporates an emergency mode to highlight injustices occurring in proximity to the user's location. This project is designed to address social issues and raise awareness about local events and concerns.
